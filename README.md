@@ -37,9 +37,4 @@ It covers user registration, login, and secure access to protected resources usi
 - **Repository Layer** → Database access using Spring Data JPA.  
 - **Security Layer** → JWT filter, authentication manager, and token validation.  
 
----
 
-## ▶️ How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
