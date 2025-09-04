@@ -1,4 +1,4 @@
-# AuthX - JWT Authentication Demo Project
+# AuthX - JWT Authentication Project
 
 This project demonstrates the **basic working of JWT (JSON Web Token)** for authentication and authorization in a Spring Boot application.  
 It covers user registration, login, and secure access to protected resources using JWT.
